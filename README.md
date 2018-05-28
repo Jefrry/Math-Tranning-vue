@@ -1,4 +1,3 @@
-## Infinity hardcore math tranning
 # Start screen
 ![review](screens/start.png)
 # Question screen
@@ -8,8 +7,8 @@ Sidebar <br>
 Timer 10** sec <br>
 Question numbers from 10* to 40* <br>
 Variants of the answer 2* <br>
-* will change in the new level
-** min time in the level == 5 <br>
+*will change in the new level <br>
+**min time in the level == 5 <br>
 ![review](screens/question.png)
 # Result screen
 If right (success) answers > wrong (error) answers, it will level up
