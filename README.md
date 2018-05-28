@@ -1,7 +1,7 @@
 # Start screen
 ![review](screens/start.png)
 # Question screen
-(The first level)
+(The first level) <br>
 3 rounds <br>
 Sidebar <br>
 Timer 10** sec <br>
